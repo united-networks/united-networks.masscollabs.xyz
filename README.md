@@ -6,9 +6,9 @@ United Networks book stores and media publishing company is a sub company of Mas
 
 United Networks book stores and media publishing company is a sub company of Masscollabs Services
 
-Copyright (C) 2023 Masscollabs Services
+Copyright (C) 2017-2024 Masscollabs Services
 
-Copyright (C) 2023 United Networks
+Copyright (C) 2023-2024 United Networks
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU Affero General Public License as published
